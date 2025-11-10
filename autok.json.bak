@@ -1,0 +1,160 @@
+{
+  "autok": [
+    {
+      "id": "1",
+      "marka": "Toyota",
+      "tipus": "Corolla",
+      "evjarat": 2020,
+      "kilometer": 15000,
+      "motor": {
+        "tipus": "benzin",
+        "hengeruri": 1800,
+        "teljesitmeny": 140,
+        "uzemanyag": "benzin"
+      },
+      "felszereltseg": {
+        "klima": true,
+        "navigacio": true,
+        "bőr": false,
+        "parkolovalto": true,
+        "kamera": false
+      },
+      "szin": "ezüst",
+      "ajanlott_ar": 3000000,
+      "allapot": "használt",
+      "tulajdonosok_szama": 1,
+      "regisztracio_datum": "2020-05-15",
+      "megjegyzesek": "Kiváló állapotú, rendszeresen karbantartott."
+    },
+    {
+      "id": "2",
+      "marka": "Volkswagen",
+      "tipus": "Golf",
+      "evjarat": 2019,
+      "kilometer": 25000,
+      "motor": {
+        "tipus": "dízel",
+        "hengeruri": 2000,
+        "teljesitmeny": 150,
+        "uzemanyag": "dízel"
+      },
+      "felszereltseg": {
+        "klima": true,
+        "navigacio": false,
+        "bőr": true,
+        "parkolovalto": false,
+        "kamera": true
+      },
+      "szin": "fekete",
+      "ajanlott_ar": 3500000,
+      "allapot": "használt",
+      "tulajdonosok_szama": 2,
+      "regisztracio_datum": "2019-03-22",
+      "megjegyzesek": "Sportos kivitel, új gumik."
+    },
+    {
+      "id": "3",
+      "marka": "Ford",
+      "tipus": "Focus",
+      "evjarat": 2021,
+      "kilometer": 5000,
+      "motor": {
+        "tipus": "benzin",
+        "hengeruri": 1500,
+        "teljesitmeny": 120,
+        "uzemanyag": "benzin"
+      },
+      "felszereltseg": {
+        "klima": true,
+        "navigacio": true,
+        "bőr": false,
+        "parkolovalto": true,
+        "kamera": false
+      },
+      "szin": "kék",
+      "ajanlott_ar": 3200000,
+      "allapot": "új",
+      "tulajdonosok_szama": 0,
+      "regisztracio_datum": "2021-11-10",
+      "megjegyzesek": "Friss műszaki vizsga."
+    },
+    {
+      "id": "4",
+      "marka": "Hyundai",
+      "tipus": "i30",
+      "evjarat": 2020,
+      "kilometer": 30000,
+      "motor": {
+        "tipus": "benzin",
+        "hengeruri": 1600,
+        "teljesitmeny": 130,
+        "uzemanyag": "benzin"
+      },
+      "felszereltseg": {
+        "klima": false,
+        "navigacio": false,
+        "bőr": true,
+        "parkolovalto": false,
+        "kamera": false
+      },
+      "szin": "szürke",
+      "ajanlott_ar": 2800000,
+      "allapot": "használt",
+      "tulajdonosok_szama": 1,
+      "regisztracio_datum": "2020-08-25",
+      "megjegyzesek": "Megbízható, alacsony fenntartási költségek."
+    },
+    {
+      "id": 5,
+      "marka": "Ford",
+      "tipus": "Galaxy",
+      "evjarat": 2020,
+      "kilometer": 55000,
+      "motor": {
+        "tipus": "benzin",
+        "hengeruri": 1500,
+        "teljesitmeny": 180,
+        "uzemanyag": "benzin"
+      },
+      "felszereltseg": {
+        "klima": true,
+        "navigacio": true,
+        "b ^qr": false,
+        "parkolovalto": true,
+        "kamera": false
+      },
+      "szin": "k  k",
+      "ajanlott_ar": 3200000,
+      "allapot": "  j",
+      "tulajdonosok_szama": 0,
+      "regisztracio_datum": "2021-11-10",
+      "megjegyzesek": "Friss m  szaki vizsga."
+    },
+    {
+      "id": 6,
+      "marka": "Ford",
+      "tipus": "Galaxy",
+      "evjarat": 2020,
+      "kilometer": 55000,
+      "motor": {
+        "tipus": "benzin",
+        "hengeruri": 1500,
+        "teljesitmeny": 180,
+        "uzemanyag": "benzin"
+      },
+      "felszereltseg": {
+        "klima": true,
+        "navigacio": true,
+        "b ^qr": false,
+        "parkolovalto": true,
+        "kamera": false
+      },
+      "szin": "k  k",
+      "ajanlott_ar": 3200000,
+      "allapot": "  j",
+      "tulajdonosok_szama": 0,
+      "regisztracio_datum": "2021-11-10",
+      "megjegyzesek": "Friss m  szaki vizsga."
+    }
+  ]
+}
