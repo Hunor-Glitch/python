@@ -91,3 +91,22 @@ Serving ./public directory if it exists
 
 Endpoints:
 http://localhost:3000/autok
+[Errno 98] error while attempting to bind on address ('::', 8080, 0, 0): address already in use
+Proxy server listening at *:8080
+Proxy server listening at *:8080
+Proxy server listening at *:8080
+[::1]:36628: client connect
+[::1]:36628: server connect postman-echo.com:443 (162.159.142.41:443)
+[::1]:36628: GET https://postman-echo.com/basic-auth
+          << 401 Unauthorized 12b
+[::1]:36628: client disconnect
+[::1]:36628: server disconnect postman-echo.com:443 (162.159.142.41:443)
+[::1]:35482: client connect
+[::1]:35482: error establishing server connection: [Errno -2] Name or service not known
+[::1]:35482: CONNECT api.thecat.api.com:443 HTTP/1.0
+ << HTTP/1.1 502 Bad Gateway 78b
+[::1]:35482: client disconnect
+[::1]:45372: client connect
+[::1]:45372: server connect api.thecatapi.com:443 (104.21.33.166:443)
+[::1]:45372: GET https://api.thecatapi.com/v1/breeds
+          << 200 OK 15.2k
